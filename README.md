@@ -1,26 +1,10 @@
-## Привет, It's Sadki Mohamed
+<!-- **Skidis17/Skidis17** is a ✨ special person hihi ✨-->
+
+## 👋 Привет, It's Sadki Mohamed
 I am a student filled with passion for computer science, aiming to develop my skills and deepen my knowledge on the field
 I've worked on several projects, mostly focused on web development, and I'm currently passionate about the Cloud & DevOps field.
 
-Aside CS, I am a partial time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis17)
-
-<!--
-**Skidis17/Skidis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+Aside CS, I am a partial time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis_17)
 
 ### 🧰 Languages and Tools
 
@@ -39,4 +23,25 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-#
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Skidis17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Skidis17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.links-section {
+  font-family: 'Quicksand', sans-serif;
+}
+</style>
+
+<div class="links-section">
+
+### Connect with me  
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-sadki1/](https://www.linkedin.com/in/mohamed-sadki1/)
+- 📸 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+
+</div>
