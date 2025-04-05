@@ -1,18 +1,12 @@
 <!-- **Skidis17/Skidis17** is a ✨ special person hihi ✨-->
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skidis17&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Add Most Used Languages stat -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skidis17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 👋 Привет, It's Sadki Mohamed
 
 I am a student filled with passion for computer science, aiming to develop my skills and deepen my knowledge in the field.  
 I've worked on several projects, mostly focused on web development, and I'm currently passionate about the **Cloud & DevOps** field.
 
-Aside from CS, I am a part-time Chess player (2300+ Elo)  
-[Skidis17 on Chess.com](https://www.chess.com/member/skidis_17)
+Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis_17)
 
 ---
 
@@ -29,6 +23,10 @@ Aside from CS, I am a part-time Chess player (2300+ Elo)
 <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+ <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+ <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+ <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+ <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <i class="fab fa-laravel" style="font-size: 30px; padding-right: 10px;"></i>
 <br><br>
 
@@ -39,6 +37,9 @@ Aside from CS, I am a part-time Chess player (2300+ Elo)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Skidis17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## Profile Views
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Unavailable-lightgrey)
 
 ### 📡 Connect with Me
 
