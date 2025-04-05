@@ -40,8 +40,7 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
 
 ### 👀  Profile Views (aka Stalkers)
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-Unavailable-lightgrey)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Skidis17)
 <br>
 
 ### 🔗 Feel free to Connect with Me!
