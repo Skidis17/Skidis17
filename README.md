@@ -9,7 +9,7 @@ I've worked on several projects, mostly focused on web development, and I'm curr
 Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis_17)
 
 ---
-<br>
+
 ### 🧰 Languages and Tools (So far)
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
