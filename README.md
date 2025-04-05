@@ -8,8 +8,8 @@ I've worked on several projects, mostly focused on web development, and I'm curr
 
 Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis_17)
 
-<br><br>
-
+---
+<br>
 ### 🧰 Languages and Tools (So far)
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,13 +36,13 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Skidis17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br><br>
+<br>
 
 ### 👀  Profile Views (aka Stalkers)
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-Unavailable-lightgrey)
 
-<br><br>
+<br>
 
 ### 🔗 Feel free to Connect with Me!
 
@@ -54,5 +54,5 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
   <img align="left" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 
-<br><br>
+<br>
 
