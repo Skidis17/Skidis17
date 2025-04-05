@@ -2,7 +2,7 @@
 I am a student filled with passion for computer science, aiming to develop my skills and deepen my knowledge on the field
 I've worked on several projects, mostly focused on web development, and I'm currently passionate about the Cloud & DevOps field.
 
-Aside CS, I am a partial time Chess player (2300+ Elo) "[Skidis17][chess.com]"
+Aside CS, I am a partial time Chess player (2300+ Elo) [Skidis17](https://www.chess.com/member/skidis17)
 
 <!--
 **Skidis17/Skidis17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
