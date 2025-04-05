@@ -10,7 +10,7 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
 
 ---
 
-### 🧰 Languages and Tools (So far)
+## 🧰 Languages and Tools (So far)
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -27,21 +27,23 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
  <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
  <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
  <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <i class="fab fa-laravel" style="font-size: 30px; padding-right: 10px;"></i>
 <br><br>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 My humble GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Skidis17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## Profile Views
+## Profile Views (aka Stalkers)
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-Unavailable-lightgrey)
 
-### 📡 Connect with Me
+### Feel free to Connect with Me!
 
 <a href="https://www.linkedin.com/in/mohamed-sadki1/" target="_blank">
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
