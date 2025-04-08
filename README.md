@@ -10,7 +10,7 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
 
 ---
 
-### 🧰 Languages and Tools (So far)
+### 🧰 Languages and Tools (So far learned)
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
