@@ -53,5 +53,6 @@ Aside from CS, I am a part-time Chess player (2300+ Elo) [Skidis17](https://www.
   <img align="left" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 
+ [Visit my portfolio](https://sadki-moheamed.netlify.app/)
 <br>
 
